@@ -52,7 +52,7 @@ Install my-project with https://jitpack.io/
 
 
 ## Screenshots
-
+<img src="https://user-images.githubusercontent.com/53067774/160189885-a7d47147-b81f-4726-a898-fd20d594e8c6.jpg" width="15%"></img> 
 
 
 ## 🚀 About Me
