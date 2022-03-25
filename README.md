@@ -8,6 +8,8 @@ This is kind of a number separator. it can seperate number by comma (,) like (00
 - Support English and Persian 
 - Easy Use
 - Cross platform
+- It's Separate EditText by comma (0,000) in typing mode
+- Call Libs + Positive 
 
 
 ## Installation
@@ -23,7 +25,11 @@ Install my-project with https://jitpack.io/
 ## Usage/Examples
 
 ```javascript
-    final DigiCutter digiCutter=new DigiCutter();// Call Libs + Positive digiCutter.NumberSeparator(anyNumber); // It's Separate EditText by comma (0,000) in typing mode
+    final DigiCutter digiCutter=new DigiCutter();
+    // Call Libs + Positive 
+    digiCutter.NumberSeparator(anyNumber); 
+    
+    // It's Separate EditText by comma (0,000) in typing mode
 
     button.setOnClickListener(new View.OnClickListener() {
         @Override
